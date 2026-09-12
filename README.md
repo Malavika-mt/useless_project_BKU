@@ -16,6 +16,14 @@ Verbally expressing your emotions is exhausting, and people constantly asking "H
 ### The Solution (that nobody asked for)
 A completely necessary electronic hair accessory where you manually log into a web dashboard to set your mood, just so a screen in your hair can broadcast it as text to anyone standing behind you. 
 
+## Technical Details
+### Technologies/Components Used
+
+**For Hardware:**
+- **Main components:** ESP32 Mini, Text Display Screen, Miniaturized LiPo battery, Standard metal/plastic hair clip
+- **Specifications:** Microcontroller with built-in Wi-Fi (ESP32), portable low-voltage power supply
+- **Tools required:** Soldering iron, thin gauge wire
+
 ### Project Media & Demos
 # Circuit Diagram
 [View Circuit Diagram on Google Drive](https://drive.google.com/drive/folders/1XZ582gamF_vZK3iWfVxN6-JrA4VBFS0R?usp=drive_link)
